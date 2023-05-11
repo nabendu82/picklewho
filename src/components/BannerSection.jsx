@@ -21,7 +21,7 @@ export default function BannerSection() {
           <BannerSubscription />
         </div>
         <div className='lg:w-1/2 pt-2'>
-          <Image src={bannerImage} alt='' />
+          <Image src='/group_34116.png' alt='group' width={500} height={500} />
         </div>
       </div>
     </section>

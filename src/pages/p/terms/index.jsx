@@ -69,8 +69,7 @@ export default function Terms() {
             </h2>
             <Image
               className='lg:w-1/5 w-1/2 md:pb-8 pb-4'
-              src={group}
-              alt='img'
+              src='/group_34116.png' alt='group'
             />
             <p className='text-2xl font-medium text-b-black pb-2'>
               <Link href='/author/PickleWho'>Picklewho</Link> Writer

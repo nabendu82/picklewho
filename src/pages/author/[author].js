@@ -54,8 +54,7 @@ export default function AuthorPage({ posts: allPost }) {
           </h2>
           <Image
             className='lg:w-1/5 w-1/2 md:pb-8 mx-auto pb-4'
-            src={bannerImage}
-            alt='img'
+            src='/group_34116.png' alt='group'
           />
           <p className='text-2xl font-semibold text-center text-b-black pb-2'>
             {authorName} Writer

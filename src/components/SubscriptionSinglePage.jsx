@@ -53,8 +53,7 @@ export default function SubscriptionSinglePage({
         <div className='lg:w-[35%] lg:pt-0 md:pt-16 lg:pl-5 pt-10'>
           <Image
             className='lg:w-full md:w-3/5 md:mx-auto'
-            src={bannerImage}
-            alt=''
+            src='/group_34116.png' alt='group'
           />
         </div>
       </div>
