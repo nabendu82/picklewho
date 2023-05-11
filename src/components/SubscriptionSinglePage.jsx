@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import bannerImage from "./../resource/image/group_34116.png";
 import Image from "next/image";
 
 export default function SubscriptionSinglePage({

@@ -2,7 +2,6 @@ import HeadComponent from "@/components/HeadComponent";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-import group from "./../../resource/image/group_34116.png";
 
 export default function Terms() {
   return (

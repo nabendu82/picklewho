@@ -1,5 +1,4 @@
 import React from "react";
-import bannerImage from "./../resource/image/group_34116.png";
 import subscriptionHOC from "@/components/SubscriptionHOC";
 import SubscriptionBannerComponent from "@/components/SubscriptionBannerComponent";
 import Image from "next/image";
